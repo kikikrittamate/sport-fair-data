@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS athlete (
+    athlete_id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    name varchar(255)    NOT NULL,
+    gender varchar(255) NOT NULL,
+    country_id    INTEGER DEFAULT 0,
+    gender varchar(255) NOT NULL,
+    FOREIGN KEY (country_id) REFERENCES country(country_id)
+);
+
+CREATE TABLE IF NOT EXISTS country (
+    country id             INTEGER PRIMARY KEY,
+    country_name          varchar(255) NOT NULL,
+);
