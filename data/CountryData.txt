@@ -1,0 +1,52 @@
+ID,country
+1,Latvia
+2,Tuvalu
+3,Guatemala
+4,Tanzania
+5,Liechtenstein
+6,Luxembourg
+7,Togo
+8,Thailand
+9,Afghanistan
+10,Madagascar
+11,Tobago
+12,Solomon Islands
+13,Austria
+14,Iraq
+15.Lao
+16,Australia
+17,Bosnia and Herzegovina
+18,Samoa
+19,Ireland
+20,Myanmar
+21,Czech Republic
+22,Chile
+23,Lebanon
+24,Mauritius
+25,Montenegro
+26,Andorra
+27,Cyprus
+28,Egypt
+29,Nicaragua
+30,Fiji
+31,Kosovo
+32,Moldova
+33,Saint Kitts and Nevis
+34,El Salvador
+35,Malta
+36,Sierra Leone
+37,Moldova
+38,Sudan
+39,North Korea
+40,Sao Tome and Principe
+41,Libya
+42,Ghana
+43,Eritrea
+44,Norway
+45,Zimbabwe
+46,Mozambique
+47,United Kingdom
+48,Vietnam
+49,Mauritius
+50,Oman
+
