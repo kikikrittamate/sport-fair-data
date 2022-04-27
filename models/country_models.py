@@ -1,7 +1,7 @@
 from sqlalchemy import Column, Integer, Text
-from sqlalchemy.orm import declarative_base
+from sqlalchemy.orm import decl_base
 
-Base = declarative_base()
+Base = decl_base()
 
 
 class CountryModel(Base):
