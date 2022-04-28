@@ -4,7 +4,7 @@ from sqlalchemy.orm import decl_base
 Base = decl_base()
 
 
-class CountryModel(Base):
+class CountryModels(Base):
     __tablename__ = "country"
 
     country_id = Column(Integer, primary_key=True, nullable=False)

@@ -4,7 +4,7 @@ from sqlalchemy.orm import decl_base
 Base = decl_base()
 
 
-class AthleteModel(Base):
+class AthleteModels(Base):
     __tablename__ = "athlete"
 
     athlete_id = Column(Integer, primary_key=True, nullable=False)
