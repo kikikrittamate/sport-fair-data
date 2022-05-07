@@ -29,7 +29,7 @@ CREATE TABLE IF NOT EXISTS country (
     country_name          varchar(255) NOT NULL
 );
 ```
-### 2. Create grocery_store.db.
+### 2. Create sportfair.db.
 ```python
 sqlite3 sportfair.db < sportfair.schema
 ```
@@ -40,3 +40,8 @@ sqlite> .mode csv
 sqlite> .import data/AthleteData.csv athlete
 sqlite> .import data/CountryData.csv country
 ```
+
+# Documents
+[Domain Model](https://github.com/kikikrittamate/sport-fair-data/wiki/Domain-Model)  
+[UML Class Diagram](https://github.com/kikikrittamate/sport-fair-data/wiki/UML-Class-Diagram)  
+[Web Services](https://github.com/kikikrittamate/sport-fair-data/wiki/Web-Service-API)
